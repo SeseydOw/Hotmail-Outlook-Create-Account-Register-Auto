@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\19\\hotmailbot\\Hotmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F19B83-F5BD-4DA4-9AC2-601DF06562D4}|Hotmail\\HotmailBot.csproj|d:\\githubnew\\19\\hotmailbot\\hotmail\\hotmail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7F19B83-F5BD-4DA4-9AC2-601DF06562D4}|Hotmail\\HotmailBot.csproj|solutionrelative:hotmail\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\19\\hotmailbot\\Hotmail\\Hotmail\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotmail\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\19\\hotmailbot\\Hotmail\\Hotmail\\Form1.cs [Design]",
+              "RelativeToolTip": "Hotmail\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:08:40.211Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
